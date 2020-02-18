@@ -1,16 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | OP Team</title>
+    <title>Categories on ITRIX-Edge</title>
     <link>https://op-team.github.io/categories/</link>
-      <atom:link href="https://op-team.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 ITRI</copyright>
-    <image>
-      <url>https://op-team.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Categories</title>
-      <link>https://op-team.github.io/categories/</link>
-    </image>
+    <description>Recent content in Categories on ITRIX-Edge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [ITRIX-Edge](https://github.com/op-team) All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://op-team.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://op-team.github.io/categories/artificial-intelligence/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://op-team.github.io/categories/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Company News</title>
+      <link>https://op-team.github.io/categories/company-news/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://op-team.github.io/categories/company-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legacy Support</title>
+      <link>https://op-team.github.io/categories/legacy-support/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://op-team.github.io/categories/legacy-support/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

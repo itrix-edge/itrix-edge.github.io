@@ -3,54 +3,169 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://op-team.github.io/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://op-team.github.io/faq/</loc>
+    <lastmod>2019-12-23T13:05:29+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://op-team.github.io/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://op-team.github.io/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://op-team.github.io/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://op-team.github.io/tags/ai/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://op-team.github.io/authors/admin/</loc>
+    <loc>https://op-team.github.io/tags/android/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://op-team.github.io/authors/op-team/</loc>
-  </url>
-  
-  <url>
-    <loc>https://op-team.github.io/authors/</loc>
+    <loc>https://op-team.github.io/categories/artificial-intelligence/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://op-team.github.io/categories/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://op-team.github.io/post/</loc>
+    <loc>https://op-team.github.io/tags/company/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://op-team.github.io/publication_types/</loc>
+    <loc>https://op-team.github.io/categories/company-news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://op-team.github.io/publication/</loc>
+    <loc>https://op-team.github.io/blog/blog-post-1/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://op-team.github.io/talk/</loc>
+    <loc>https://op-team.github.io/blog/blog-post-2/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/blog/blog-post-3/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/blog/blog-post-4/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/blog/blog-post-5/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/blog/blog-post-6/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/blog/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/categories/legacy-support/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/tags/mechine/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/tags/news/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/tags/retro/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://op-team.github.io/tags/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/tags/technology/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/pricing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/project/rio-furniture-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/project/rio-furniture-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/project/rio-furniture-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/project/rio-furniture-4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/project/rio-furniture-5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/project/rio-furniture-6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://op-team.github.io/service/</loc>
   </url>
   
 </urlset>
